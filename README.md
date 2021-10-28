@@ -5,7 +5,7 @@
 
 1. Why we need to rethink women in tech: [The Muse](https://www.themuse.com/advice/why-we-need-to-rethink-women-in-tech)
 2. The need for women in technology: [Venture Beat](https://venturebeat.com/2019/03/27/the-need-for-women-in-technology/) 
-3. Stop Telling Women They Have Imposter Syndrome[https://hbr.org/2021/02/stop-telling-women-they-have-imposter-syndrome?fbclid=IwAR3-8YCUl1wWWSMKvDslWP-i-dgXfb1zS5zcIXY2_KcMuamJDBhtJ0i94l0)
+3. Stop Telling Women They Have Imposter Syndrome (https://hbr.org/2021/02/stop-telling-women-they-have-imposter-syndrome?fbclid=IwAR3-8YCUl1wWWSMKvDslWP-i-dgXfb1zS5zcIXY2_KcMuamJDBhtJ0i94l0)
 4. Against the Odds: Growing the Number of Women in Technology [Huffpost](https://www.huffpost.com/entry/against-the-odds-growing_b_11231486)
 5. Women In Tech: Inconvenient Truths And Changing Perspectives [Forbes](https://www.forbes.com/sites/julianvigo/2019/02/23/women-in-tech/#75f4c11e45d7) 
 6. The Importance of women in technology [Blog](https://blog.usejournal.com/the-importance-of-women-in-technology-15a653d12c)
