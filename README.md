@@ -16,6 +16,7 @@
 11. Hiring women in tech: [Workable](https://resources.workable.com/stories-and-insights/hiring-women-in-tech)
 12. These 6 pioneering women helped create modern computers [TED](https://ideas.ted.com/how-i-discovered-six-pioneering-women-who-helped-create-modern-computers-and-why-we-should-never-forget-them/?utm_content=2020-10-06&utm_medium=social&utm_source=linkedin.com&utm_campaign=social)
 13. Shine Theory: Why Powerful Women Make the Greatest Friends [The Cut](https://www.thecut.com/2013/05/shine-theory-how-to-stop-female-competition.html)
+14. Girls in Tech. [Blog](https://girlsintech.org/blog/) 
 
 
 ---
