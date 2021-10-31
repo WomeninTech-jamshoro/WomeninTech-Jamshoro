@@ -49,3 +49,12 @@
 
 
 ---
+## <div align="center">Podcasts</div>
+
+1. The Women in Tech Show hosted by Edaena Salinas [More](https://thewomenintechshow.com)
+2. She Did It Her Way hosted by Amanda Boleyn [More](https://shediditherway.com)
+3. Witty: Women in Tech Talk to Yasmin hosted by Yasmin Alameddine [More](https://www.podchaser.com/podcasts/witty-women-in-tech-talk-to-ya-419483/episodes/recent)
+4. Women Tech Charge hosted by Dr. Anne-Marie Imafidon MBE, CEO of stemettes.org [More](https://play.acast.com/s/womentechcharge)
+
+
+---
