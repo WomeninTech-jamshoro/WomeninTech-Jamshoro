@@ -37,3 +37,14 @@
 
 
 ---
+## <div align="center">Ted Talks To Inspire</div>
+
+
+1. Teach girls bravery, not perfection – Reshma Saujani [Watch](https://www.youtube.com/watch?v=fC9da6eqaqg)
+2. Why we have too few women leaders – Sheryl Sandberg [Watch](https://www.youtube.com/watch?v=18uDutylDa4)
+3. Inspiring the next generation of female engineers – Debbie Sterling [Watch](https://www.youtube.com/watch?v=FEeTLopLkEo)
+4. How Computer Science Made Me Brave – Madeline Griswold [Watch](https://www.youtube.com/watch?v=nZ1ehJqXor0)
+5. Why do ambitious women have flat heads?- Dame Stephanie Shirley [Watch](https://www.youtube.com/watch?v=Ftow7dSpaiY)
+
+
+---
