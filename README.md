@@ -27,18 +27,17 @@
 
 
 ## <div align="center">Building Women in Technology</div>
-## Girls Who Code
+
 [Girls Who Code](https://girlswhocode.com/) is on a mission to close the gender gap in technology and to change the image of what a programmer looks like and does.
 
-### Girls Teaching Girls to Code
 At [Girls Teaching Girls to Code (GTC)](https://www.girlsteachinggirlstocode.org/), we empower college girls pursuing Computer Science and Engineering to connect with local high school girls and inspire them through mentorship and applied projects.
 
-### 📌 Girls In Tech
+
 [Girls in Tech](https://girlsintech.org/) is a nonprofit organization dedicated to eliminating the gender gap in tech. 
 
-### 📌 Built By Girls
+
 [BUILT BY GIRLS](https://www.builtbygirls.com/) prepares female and non-binary students to step boldly into careers powered by technology. 
 
-### 📌 Girl Develop It
+
 [Girl Devleop It](https://www.girldevelopit.com/) is a nonprofit organization that provides affordable programs for adult women and non-binary individuals to learn web and software development in a judgement free environment.
 
