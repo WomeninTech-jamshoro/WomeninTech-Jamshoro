@@ -48,3 +48,12 @@
 
 
 ---
+## <div align="center">Podcasts,Worth A Listen</div>
+
+1. The Women in Tech Show hosted by Edaena Salinas 
+2. She Did It Her Way hosted by Amanda Boleyn
+3. Witty: Women in Tech Talk to Yaz hosted by Yasmin Alameddine
+4. Women Tech Charge hosted by Dr. Anne-Marie Imafidon MBE, CEO of stemettes.org
+
+
+---
